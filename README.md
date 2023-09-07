@@ -25,7 +25,7 @@
 
 5. Save the file and close it. All done.
 
-After configuring the hosts file, you can access the server by alias instead of memorizing the IP address. For example, to ssh into cpu3, just run
+After configuring the hosts file, you can access the server by alias to avoid memorizing the IP address. For example, to ssh into cpu3, just run
 
 ```cmd
 ssh cpu3-cool-lab
