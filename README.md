@@ -41,7 +41,10 @@ Of course, we will also give a sample command for those who are not familiar wit
 
 ```bash
 cd <the directory you place the downloaded hosts file>
+# For MacOS, use zsh as the default shell
 sudo zsh -c 'cat hosts >>/etc/hosts'
+# For Linux, usually use bash by default
+sudo bash -c 'cat hosts >>/etc/hosts'
 ```
 
 ## Create your personal container and access
