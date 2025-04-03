@@ -1,5 +1,5 @@
 # Hosts for computational resources of COOL-Lab@CQU
-# <-- Begin -->
+# <-- COOL-LAB HOSTS BEGIN -->
 # CPU Servers
  10.242.7.159    cpu3-cool-lab   cpu3.cool.lab
 # GPU Servers
@@ -10,4 +10,4 @@
  10.242.4.170    gpu7-cool-lab   gpu7.cool.lab
 # Others
  10.242.5.150    nas0-cool-lab   nas0.cool.lab
-# <-- END -->
+# <-- COOL-LAB HOSTS END -->
