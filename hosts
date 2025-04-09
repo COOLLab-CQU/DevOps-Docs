@@ -2,6 +2,9 @@
 # <-- COOL-LAB HOSTS BEGIN -->
 # CPU Servers
  10.242.7.159    cpu3-cool-lab   cpu3.cool.lab
+ 10.242.5.243    cpu4-cool-lab   cpu4.cool.lab
+ 10.242.5.167    cpu5-cool-lab   cpu5.cool.lab
+ 10.242.11.192   cpu6-cool-lab   cpu6.cool.lab
 # GPU Servers
  10.242.4.22     gpu3-cool-lab   gpu3.cool.lab
  10.242.4.74     gpu4-cool-lab   gpu4.cool.lab
