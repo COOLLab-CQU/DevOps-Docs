@@ -3,8 +3,8 @@
 # Date: 2025-07-08
 # CPU Servers
  10.246.1.23     cpu3-cool-lab   cpu3.cool.lab
- 10.242.5.243    cpu4-cool-lab   cpu4.cool.lab
- 10.242.5.167    cpu5-cool-lab   cpu5.cool.lab
+ 10.246.1.24    cpu4-cool-lab   cpu4.cool.lab
+ 10.246.1.22    cpu5-cool-lab   cpu5.cool.lab
  10.242.11.192   cpu6-cool-lab   cpu6.cool.lab
 # GPU Servers
  10.246.1.19     gpu3-cool-lab   gpu3.cool.lab
@@ -13,5 +13,5 @@
  10.246.1.26     gpu6-cool-lab   gpu6.cool.lab
  10.246.1.17     gpu7-cool-lab   gpu7.cool.lab
 # Others
- 10.242.5.150    nas0-cool-lab   nas0.cool.lab
+ 10.246.1.21    nas0-cool-lab   nas0.cool.lab
 # <-- COOL-LAB HOSTS END -->
