@@ -1,16 +1,17 @@
 # Hosts for computational resources of COOL-Lab@CQU
 # <-- COOL-LAB HOSTS BEGIN -->
+# Date: 2025-07-08
 # CPU Servers
- 10.242.7.159    cpu3-cool-lab   cpu3.cool.lab
+ 10.246.1.23     cpu3-cool-lab   cpu3.cool.lab
  10.242.5.243    cpu4-cool-lab   cpu4.cool.lab
  10.242.5.167    cpu5-cool-lab   cpu5.cool.lab
  10.242.11.192   cpu6-cool-lab   cpu6.cool.lab
 # GPU Servers
- 10.242.4.22     gpu3-cool-lab   gpu3.cool.lab
- 10.242.4.74     gpu4-cool-lab   gpu4.cool.lab
- 10.242.4.136    gpu5-cool-lab   gpu5.cool.lab
- 10.242.4.165    gpu6-cool-lab   gpu6.cool.lab
- 10.242.4.170    gpu7-cool-lab   gpu7.cool.lab
+ 10.246.1.19     gpu3-cool-lab   gpu3.cool.lab
+ 10.246.1.27     gpu4-cool-lab   gpu4.cool.lab
+ 10.246.1.25     gpu5-cool-lab   gpu5.cool.lab
+ 10.246.1.26     gpu6-cool-lab   gpu6.cool.lab
+ 10.246.1.17     gpu7-cool-lab   gpu7.cool.lab
 # Others
  10.242.5.150    nas0-cool-lab   nas0.cool.lab
 # <-- COOL-LAB HOSTS END -->
